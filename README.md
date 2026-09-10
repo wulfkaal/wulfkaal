@@ -6,7 +6,7 @@ Protocol designer. Reputation systems, decentralized governance, MCP infrastruct
    focus          decentralized reputation, governed self-modification, agent infrastructure
    substrate      Python, Rust, Solidity, TypeScript, MCP, PyTorch, Docker, Linux
    writing        125 papers (ssrn 460345)  ·  governanceattheedge.com
-   orcid          0000-0003-0757-275X
+   orcid          0009-0008-7840-1847
 ```
 
 ---
@@ -49,6 +49,7 @@ The work spans three layers that share one substrate: a 125-paper sole-authored 
 ### Elsewhere
 
 - Papers: [SSRN 460345](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=460345) (125 papers, sole-authored)
-- ORCID: [0000-0003-0757-275X](https://orcid.org/0000-0003-0757-275X)
+- ORCID: [0009-0008-7840-1847](https://orcid.org/0009-0008-7840-1847)
 - Writing: [governanceattheedge.com](https://governanceattheedge.com)
 - Site: [wulfkaal.com](https://www.wulfkaal.com)
+- Machine-readable corpus: [wulfkaal.github.io](https://wulfkaal.github.io/) — 5,288 atomic claims across 132 works, each bound to a verbatim source quote and the sha256 of its source PDF, browsable [by topic](https://wulfkaal.github.io/claims/by-topic/)
