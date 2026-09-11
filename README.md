@@ -1,9 +1,9 @@
 # Wulf Kaal
 
-Protocol designer. Reputation systems, decentralized governance, MCP infrastructure.
+Web3 & AI Agent Architecture | ウェブ3 人工知能 未来主義者 | Sovereign Local Runtime Dynamic Agentic Systems | Reputation Systems  | Decentralized Governance  | MCP Infrastructure  | Omarchy |
 
 ```
-   focus          decentralized reputation, governed self-modification, agent infrastructure
+   focus         sovereign local agent runtime, decentralized reputation, governed self-modification, agent infrastructure
    substrate      Python, Rust, Solidity, TypeScript, MCP, PyTorch, Docker, Linux
    writing        ssrn 460345  ·  wulfkaal.github.io
    orcid          0009-0008-7840-1847
@@ -11,27 +11,29 @@ Protocol designer. Reputation systems, decentralized governance, MCP infrastruct
 
 ---
 
-### Research-engineering bridge
+Research-engineering bridge
 
 The work spans three layers that share one substrate: a sole-authored SSRN corpus,
 published as an atomic claim layer at
 [wulfkaal.github.io](https://wulfkaal.github.io/).
 
-**Theory.** Computative Economics as a framework for reasoning about coordination
+Theory
+
+Computative Economics as a framework for reasoning about coordination
 under collapsing marginal cost.
 
-**Empirical and simulation.** Two parallel tracks: applying that framework to the
-present technological regime, and an independent empirical study of reputation as
-agentic coordination infrastructure.
+Empirical and simulation.
 
-**Mechanism and infrastructure.** Reputation as the coordination substrate that takes
-load off price when price degrades. Agent-side infrastructure lives in
-[`kaal-corpus-mcp`](https://github.com/wulfkaal/kaal-corpus-mcp), an MCP server
+Two parallel tracks: applying that framework to the present technological regime, and an independent empirical study of reputation as agentic coordination infrastructure.
+
+Mechanism and infrastructure. 
+
+Reputation as the coordination substrate that takes load off price when price degrades. Agent-side infrastructure lives in [`kaal-corpus-mcp`](https://github.com/wulfkaal/kaal-corpus-mcp), an MCP server
 exposing the corpus as a typed knowledge graph.
 
 ---
 
-### Engineering principles
+Engineering principles
 
 1. Specs before code. Specs that survive contact with simulation before deployment.
 2. Substrate-agnostic at the design layer. Opinionated at the deployment layer.
@@ -41,7 +43,7 @@ exposing the corpus as a typed knowledge graph.
 
 ---
 
-### Selected work
+Selected work
 
 | Repo | Status | What it is |
 |---|---|---|
@@ -49,7 +51,7 @@ exposing the corpus as a typed knowledge graph.
 
 ---
 
-### Elsewhere
+Elsewhere
 
 - Papers: [SSRN 460345](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=460345) (sole-authored)
 - ORCID: [0009-0008-7840-1847](https://orcid.org/0009-0008-7840-1847)
